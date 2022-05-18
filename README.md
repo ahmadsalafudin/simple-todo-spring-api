@@ -1,1 +1,1 @@
-# simple-todo-mongo
+# simple-todo-springboot
